@@ -78,5 +78,5 @@ if __name__=="__main__":
 ## Output:
 ![Screenshot (207)](https://user-images.githubusercontent.com/75243072/169442509-320f1e03-a2d0-462a-b323-ace53afae457.png)
 
-## <br>Result:
+## <br/><br/><br/>Result:
   Thus created a perception to employ the Sigmoid activation function. This neuron was successfully trained to predict the correct output value, when provided with a new set of input data.
